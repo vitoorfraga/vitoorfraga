@@ -2,7 +2,7 @@
 
 ## Hi, I'm Vitor Fraga! 👋
 - 🔭 I'm 20 years old and I'm from the city of São Paulo - Brazil.
-- 📚 I am currently taking a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br/) (2021 - 2023).. 
+- 📚 I am currently taking a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br/) (2021 - 2023).
 #
 
 ### My Skilss
