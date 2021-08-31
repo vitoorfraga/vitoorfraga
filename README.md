@@ -1,9 +1,8 @@
 ![Group 4](https://user-images.githubusercontent.com/80723488/131565468-0324a68f-e8eb-4a6f-87b6-0ff5a385cc09.png)
 
 ## Hi, I'm Vitor Fraga! 👋
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I'm 20 years old and I'm from the city of São Paulo - Brazil.
+- 📚 I am currently taking a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br/) (2021 - 2023).. 
 #
 
 ### My Skilss
