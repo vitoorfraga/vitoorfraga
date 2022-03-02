@@ -1,7 +1,7 @@
 ![Group 4](https://user-images.githubusercontent.com/80723488/131565468-0324a68f-e8eb-4a6f-87b6-0ff5a385cc09.png)
 
 ## Hi, I'm Vitor Fraga! 👋
-- 🔭 I'm 20 years old and I'm from the city of São Paulo - Brazil.
+- 🔭 I'm 21 years old and I'm from the city of São Paulo - Brazil.
 - ⏩ I'm currently working on [Digital R3D](https://www.digitalr3d.com/marketing-digital).
 - 📚 I am currently taking a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br/) (2021 - 2023).
 #
