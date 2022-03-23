@@ -2,7 +2,7 @@
 
 ## Hi, I'm Vitor Fraga! 👋
 - 🔭 I'm 21 years old and I'm from the city of São Paulo - Brazil.
-- ⏩ I'm currently working on [Digital R3D](https://www.digitalr3d.com/marketing-digital).
+- ⏩ I'm currently working on Nect Digital.
 - 📚 I am currently taking a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br/) (2021 - 2023).
 #
 
