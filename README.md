@@ -2,9 +2,6 @@
 
 ## Hi, I'm Vitor Fraga! 👋
 - 🔭 I'm 22 years old and I'm from the city of São Paulo - Brazil.
-#
-
-
 
 
 ### My Links
